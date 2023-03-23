@@ -1,0 +1,15 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 1px solid blue;
+    margin: 1px;
+}
+.container{
+    display: flex;
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+
+}
